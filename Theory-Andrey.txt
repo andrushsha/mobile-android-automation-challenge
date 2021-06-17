@@ -1,0 +1,10 @@
+1) I'm to lazy to wrote own framework for test exercise. Kaspresso have all wrappers what I needed.
+2) Advantages:
+ - lovely dsl
+ - wrappers for all UI-elements used in this App, even Intents
+ Disadvantages:
+ - documentation is poor
+3) - Code-style
+   - Code-readable
+   - Consistency
+4) If team can read code, than they can write new tests.
