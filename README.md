@@ -12,3 +12,9 @@
    
    **Password**: automation
 
+### How to launch tests
+```bash
+./gradlew connectedCheck
+
+```
+
